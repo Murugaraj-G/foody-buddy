@@ -1,5 +1,5 @@
 
-[<img src="./assets/readme/banner.gif" />](https://suryakannankumbhar.netlify.app/)
+[<img src="./assets/readme/banner.gif" />](https://Murugaraj.netlify.app/)
 <br />
 <h1 align="center">Foddy Buddy</h1>
 
@@ -42,8 +42,8 @@ Try It Now!!
 <kbd><img src="./assets/readme/8.jpeg" width="300" title=""></kbd>
 <br >
 <h3>Some GitHub Stats</h3>
-<p align="center"><a href="https://github.com/Murugaraj/github-readme-stats"><img alt="Surya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Murugaraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-stats"><img alt="Surya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryakannankumbhar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
-<p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-activity-graph"><img alt="Surya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=suryakannankumbhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+<p align="center"><a href="https://github.com/Murugaraj/github-readme-stats"><img alt="Murugaraj GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Murugaraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="center"><a href="https://github.com/murugaraj/github-readme-stats"><img alt="Murugaraj Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murugaraj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
+<p align="center"><a href="https://github.com/murugaraj/github-readme-activity-graph"><img alt="Murugaraj Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Murugaraj&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Murugaraj&theme=highcontrast&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="Murugaraj" /></p>
 <br />
